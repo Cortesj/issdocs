@@ -4,8 +4,10 @@ use_directory_urls: False
 nav:
     - Home: index.md
     - Policies: iss_policies.md
-    - Hardware 5400: hardware_disassembly/5400.md
+    - Office365: procedures/office365.md
     - Backups: procedures/backups.md
+    - Parts ordering: procedures/dell_ordering.md
+    - Windows Bypass: os_fixes/sethc_bypass.md
     - About: about.md
 
 theme: readthedocs
