@@ -4,6 +4,7 @@ use_directory_urls: False
 nav:
     - Home: index.md
     - Policies: iss_policies.md
+    - Hardware 5400: hardware_disassembly/5400.md
     - Backups: procedures/backups.md
     - About: about.md
 
