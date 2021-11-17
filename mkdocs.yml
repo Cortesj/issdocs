@@ -3,6 +3,8 @@ site_url: ""
 use_directory_urls: False
 nav:
     - Home: index.md
+    - Policies: iss_policies.md
+    - Backups: procedures/backups.md
     - About: about.md
 
 theme: readthedocs
