@@ -1,0 +1,7 @@
+site_name: IS&S Documentation
+site_url: ""
+use_directory_urls: False
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
