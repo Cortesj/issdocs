@@ -4,7 +4,7 @@ use_directory_urls: False
 nav:
     - Home: index.md
     - Policies: iss_policies.md
-    - Office365: procedures/office365.md
+    - Office 365: procedures/office365.md
     - Backups: procedures/backups.md
     - Parts ordering: procedures/dell_ordering.md
     - Windows Bypass: os_fixes/sethc_bypass.md
