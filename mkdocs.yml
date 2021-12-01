@@ -8,6 +8,7 @@ nav:
     - Backups: procedures/backups.md
     - Parts ordering: procedures/dell_ordering.md
     - Windows Bypass: os_fixes/sethc_bypass.md
+    - SCCM Imaging: procedures/sccm_imaging.md
     - About: about.md
 
 theme: readthedocs
